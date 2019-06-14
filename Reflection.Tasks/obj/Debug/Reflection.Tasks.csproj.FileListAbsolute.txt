@@ -1,0 +1,12 @@
+C:\Users\Yauheni_Lazakovich\Documents\aorgish-net-training-tasks-32449dfbbae5\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.dll
+C:\Users\Yauheni_Lazakovich\Documents\aorgish-net-training-tasks-32449dfbbae5\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.pdb
+C:\Users\Yauheni_Lazakovich\Documents\aorgish-net-training-tasks-32449dfbbae5\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.csprojAssemblyReference.cache
+C:\Users\Yauheni_Lazakovich\Documents\aorgish-net-training-tasks-32449dfbbae5\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Lazakovich\Documents\aorgish-net-training-tasks-32449dfbbae5\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.dll
+C:\Users\Yauheni_Lazakovich\Documents\aorgish-net-training-tasks-32449dfbbae5\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.pdb
+D:\ReflectionTasks\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.dll
+D:\ReflectionTasks\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.pdb
+D:\ReflectionTasks\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.csprojAssemblyReference.cache
+D:\ReflectionTasks\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.csproj.CoreCompileInputs.cache
+D:\ReflectionTasks\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.dll
+D:\ReflectionTasks\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.pdb
